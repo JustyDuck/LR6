@@ -31,11 +31,11 @@
 1. Откат коммита 
 ![Image](https://github.com/JustyDuck/LR6/blob/master/Images/откат%20коммита.JPG)
 1. создание ветки для отчёта
-1. ![Image](https://github.com/JustyDuck/LR6/blob/master/Images/создание%20ветки%20отчёта.JPG)
+![Image](https://github.com/JustyDuck/LR6/blob/master/Images/создание%20ветки%20отчёта.JPG)
 1. Оформление отчёта
-1. ![Image]()
+![Image](https://github.com/JustyDuck/LR6/blob/master/Images/визуалка.JPG)
 1. Получение операций в форматированном виде
-1. ![Image](https://github.com/JustyDuck/LR6/blob/master/Images/история%20операций%20в%20форматированном%20виде.JPG)
+![Image](https://github.com/JustyDuck/LR6/blob/master/Images/история%20операций%20в%20форматированном%20виде.JPG)
 1. Отправка изменений из локального репозитория в удалённый
 
 ## Использованые команды:
